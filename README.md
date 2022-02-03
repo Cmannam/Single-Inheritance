@@ -12,7 +12,7 @@ class one {
 class two extends one {
     public void print_hub() { System.out.println("Hub"); }
 }
-// Driver class
+
 public class Main {
     public static void main(String[] args)
     {
